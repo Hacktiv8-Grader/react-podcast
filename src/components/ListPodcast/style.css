@@ -1,0 +1,6 @@
+.border {
+  border: 1px solid brown;
+  /* margin: 16px; */
+  padding: 16px;
+  width: 70px;
+}
